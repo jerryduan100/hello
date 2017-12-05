@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     int x;
 
-    puts("Hi, World!\nPress Enter to continue...");
+    puts("Hi, Baby!\nPress Enter to continue...");
 
     /*
      * The following getchar() call is only placed here for the purpose
